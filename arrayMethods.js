@@ -18,7 +18,7 @@ const inventors = [
 // 1. Filter de lijst op uitvinders die geboren zijn in de 16e eeuw
 // Verwachte uitkomst:
 // [{ first: 'Galileo', last: 'Galilei', year: 1564, passed: 1642 }, { first: 'Johannes', last: 'Kepler', year: 1571, passed: 1630 }]
-
+1
 
 
 // 2. Maak een array met daarin alle geboortejaren van de uitvinders
